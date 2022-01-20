@@ -29,9 +29,27 @@ This Analysis is based on year, market cap, high, low, open, close values and al
 
 ## File Structure
 ```
-Sale-Insight
-    ├── Dataset
-    ├── Power BI Dashboard
+CryptoCurrencyData
+    ├── Individual_Crypto_Data
+    |                ├── coin_BinanceCoin.csv
+    |                ├── coin_Bitcoin.csv
+    |                ├── coin_Dogecoin.csv
+    |                ├── coin_Ethereum.csv
+    |                ├── coin_Solana.csv
+    |                ├── coin_Stellar.csv
+    |                ├── coin_Tether.csv
+    |                ├── coin_USDCoin.csv
+    |                ├── coin_WrappedBitcoin.csv
+    |                ├── coin_XRP.csv
+    |
+    |
+    ├── Combined_Crypto_Data
+    |                ├── CryptoCurrencyData.xlsx
+    |
+    |
+    ├── Dashboard
+    ├── crypto1.png
+    ├── crypto2.png
 ```
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
