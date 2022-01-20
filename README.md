@@ -64,7 +64,11 @@ CryptoCurrencyData
 
 ## Report Insight
 
+* Crypto values are unpredictable and from 2013 to now there are so many crypto currencies that exist.
 
+* From Insight, Bitcoin and Ethereum are best from others because people are investing more in these.
+
+* In 2022, Data Predictions says Ethereum, Solana would be high and bitcoin would be down.
   
   
     
