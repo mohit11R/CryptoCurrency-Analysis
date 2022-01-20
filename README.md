@@ -38,7 +38,9 @@ Sale-Insight
 
 ## Dashboard
 
-![alt-image](https://github.com/mohit11R/Global-Sales-Analysis/blob/main/Sale%20Analysis/dashboard.png?raw=true)
+![alt-image](https://github.com/mohit11R/CryptoCurrency-Analysis/blob/main/CryptoCurrencyData/crypto1.png?raw=true)
+
+![alt-image](https://github.com/mohit11R/CryptoCurrency-Analysis/blob/main/CryptoCurrencyData/crypto2.png?raw=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
